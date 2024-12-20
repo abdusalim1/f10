@@ -1,0 +1,41 @@
+.div1{
+background: white;
+border: 2px solid rgb(160, 152, 152);
+border-radius: 40px;
+display: inline-block;
+padding-top: 30px ;
+padding-left: 40px;
+padding-right: 40px;
+padding-bottom: 30px;
+}
+.Yangi{
+    color: rgb(255, 111, 0);
+}
+.div2{
+    color: white;
+    background: rgb(0, 0, 0);
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 40px;
+    display: inline-block;
+    padding-top: 30px ;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 30px;
+    }
+    .Yangi1{
+        color: rgb(255, 111, 0);
+    }
+    .div3{
+       
+        background: rgb(255, 255, 255);
+        border: 2px solid rgb(160, 152, 152);
+        border-radius: 40px;
+        display: inline-block;
+        padding-top: 30px ;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-bottom: 30px;
+        }
+        .Yangi3{
+            color: rgb(255, 111, 0);
+        }

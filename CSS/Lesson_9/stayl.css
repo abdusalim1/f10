@@ -1,0 +1,58 @@
+iframe{
+    width: 1504px;
+   height: 500px;
+}
+.div1{
+    background: #00B534;
+    color: white;
+    font-family: "K2D", serif;
+    font-size: 33px;
+    height: 68px;
+    padding-top:6px ;
+    
+}
+.manzil{
+margin-left: 710px;
+margin-top: 10px;
+}
+.div2{
+    background-color: #012A30;
+    height: 150px;
+}
+.img{
+    width: 138.98px;
+    height: 38px;
+    margin-top: 30px;
+    margin-left: 200px;
+    display: inline-block;
+}
+.Tg{
+    color: #00B534;
+    display: inline-block;
+    margin-left: 360px;
+}
+.Nomer{
+    color: white;
+    display: inline-block;
+    font-size: 20px;
+    font-family: "K2D", serif;
+    margin-left: 320px;
+}
+.linya{
+padding-left: 200px;
+margin-left: -200px;
+}
+.P2024{
+    font-family: "K2D", serif;
+    font-size: 12px;
+    color: white;
+    margin-left: 255px;
+    display: inline-block;
+}
+.Xizmatlar{
+    font-family: "K2D", serif;
+    font-size: 12px;
+    color: white;
+    margin-left: 725px;
+    display: inline-block;
+}

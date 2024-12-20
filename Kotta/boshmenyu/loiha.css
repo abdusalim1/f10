@@ -1,0 +1,276 @@
+.logo {
+    position: absolute;
+    top: -5px;
+    left: 155px;
+    display: inline-block;
+    width: 120px;
+}
+
+.orqa {
+    height: 110px;
+    width: 1538px;
+    margin-left: -10px;
+    margin-top: -20px;
+}
+
+.menhaqimda {
+    display: inline-block;
+    position: absolute;
+    top: 22px;
+    left: 800px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 2px solid greenyellow;
+    border-radius: 15px;
+    background-color: black;
+    color: greenyellow;
+    font-size: 12px;
+    font-family: "Inter", serif;
+}
+
+.menhaqimda:hover {
+    background-color: greenyellow;
+    color: black;
+    transition: 1s;
+    font-size: 12px;
+    font-family: "Inter", serif;
+}
+
+.oilam {
+    display: inline-block;
+    position: absolute;
+    top: 22px;
+    left: 980px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 2px solid greenyellow;
+    border-radius: 15px;
+    background-color: black;
+    color: greenyellow;
+    font-size: 12px;
+    font-family: "Inter", serif;
+}
+
+.oilam:hover {
+    background-color: greenyellow;
+    color: black;
+    transition: 1s;
+    font-size: 12px;
+    font-family: "Inter", serif;
+}
+
+.loyhaa {
+    display: inline-block;
+    position: absolute;
+    top: 22px;
+    left: 1160px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 2px solid greenyellow;
+    border-radius: 15px;
+    background-color: black;
+    color: greenyellow;
+    font-size: 12px;
+    font-family: "Inter", serif;
+}
+
+.loyhaa:hover {
+    background-color: greenyellow;
+    color: black;
+    transition: 1s;
+    font-size: 12px;
+    font-family: "Inter", serif;
+
+
+}
+.ota{
+    width: 1538px;
+    height: 1500px;
+    background-color: black;
+    margin-left: -10px;
+    margin-top: -15px;
+    display: inline-block;
+}
+.card1{
+    border: 3px solid yellowgreen;
+width: max-content;
+padding-top: 20px;
+padding-left: 20px;
+padding-right: 20px;
+border-radius: 20px;
+margin-top: 100px;
+margin-left: 175px;
+position: absolute;
+padding-bottom:px;
+transition: 1s;
+display:inline-block;
+}
+.card1:hover{
+    transform: scale(1.1);
+    box-shadow: 0px 10px 50px white;
+}
+img{
+    width: 500px;
+    border-radius: 10px;
+}
+p{
+    color: white;
+    font-family: "Inter", serif;
+    font-size: 20px;
+}
+
+.card2{
+    border: 3px solid yellowgreen;
+width: max-content;
+padding-top: 20px;
+padding-left: 20px;
+padding-right: 20px;
+border-radius: 20px;
+margin-top:100px;
+margin-left: 825px;
+position: absolute;
+padding-bottom:px;
+transition: 1s;
+display:inline-block;
+}
+.card2:hover{
+    transform: scale(1.1);
+    box-shadow: 0px 10px 50px white;
+}
+.card3{
+    border: 3px solid yellowgreen;
+width: max-content;
+padding-top: 20px;
+padding-left: 20px;
+padding-right: 20px;
+border-radius: 20px;
+margin-top:600px;
+margin-left: 825px;
+position: absolute;
+padding-bottom:px;
+transition: 1s;
+display:inline-block;
+}
+.card3:hover{
+    transform: scale(1.1);
+    box-shadow: 0px 10px 50px white;
+}
+.card4{
+    border: 3px solid yellowgreen;
+width: max-content;
+padding-top: 20px;
+padding-left: 20px;
+padding-right: 20px;
+border-radius: 20px;
+margin-top: 600px;
+margin-left: 175px;
+position: absolute;
+padding-bottom:px;
+transition: 1s;
+display:inline-block;
+}
+.card4:hover{
+    transform: scale(1.1);
+    box-shadow: 0px 10px 50px white;
+}
+.card5{
+    border: 3px solid yellowgreen;
+width: max-content;
+padding-top: 20px;
+padding-left: 20px;
+padding-right: 20px;
+border-radius: 20px;
+margin-top:1100px;
+margin-left: 825px;
+position: absolute;
+padding-bottom:px;
+transition: 1s;
+display:inline-block;
+}
+.card5:hover{
+    transform: scale(1.1);
+    box-shadow: 0px 10px 50px white;
+}
+.card6{
+    border: 3px solid yellowgreen;
+width: max-content;
+padding-top: 20px;
+padding-left: 20px;
+padding-right: 20px;
+border-radius: 20px;
+margin-top: 1100px;
+margin-left: 175px;
+position: absolute;
+padding-bottom:px;
+transition: 1s;
+display:inline-block;
+}
+.card6:hover{
+    transform: scale(1.1);
+    box-shadow: 0px 10px 50px white;
+}
+.yashildiv {
+    color: yellowgreen;
+    font-size: 40px;
+ 
+}
+.footer{
+    background-color: yellowgreen;
+    width: 1538px;
+    height: 200px;
+    margin-left: -10px;
+    margin-top: -10px;
+}
+.insa{
+    margin-left: 170px;
+    margin-top: 80px;
+    font-size: 50px;
+   color: black;
+   transition: 1s;
+}
+.insa:hover{
+    transform: scale(1.3);
+}
+.tg{
+   margin-left: 20px;
+    margin-top: 80px;
+    font-size: 50px;
+   color: black;
+   transition: 1s;
+}
+.tg:hover{
+    transform: scale(1.3);
+}
+.thre{
+   margin-left: 20px;
+    margin-top: 80px;
+    font-size: 50px;
+   color: black;
+   transition: 1s;
+}
+.thre:hover{
+transform: scale(1.3);
+}
+.icon{
+    display:flex;
+}
+iframe{
+   width: 250px;
+   height: 160px;
+  display: flex;
+   margin-left: 1100px;
+   margin-top: -135px;
+   border-radius: 20px;
+   border: 1px solid yellowgreen;
+   transition: 1s;
+}
+iframe:hover{
+    transform: scale(1.1);
+}
+.manz{
+    font-family: "Inter", serif;
+  margin-left: 620px;
+  margin-top: -30px;
+  font-size: 30px;
+}
+ 

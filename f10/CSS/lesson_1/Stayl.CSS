@@ -1,0 +1,20 @@
+h3{
+    color: green;
+}
+h2{
+    color: rgb(100, 93, 93);
+}
+h1{
+    color: black;
+}
+span{
+    color: rgb(89, 92, 89);
+}
+p{
+    color: rgb(89, 92, 89);
+}
+div{
+    width: 20%;
+    height: max-content;
+    background-color: rgb(162, 215, 162);
+}

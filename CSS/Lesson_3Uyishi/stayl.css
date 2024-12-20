@@ -1,0 +1,74 @@
+.Asosiy{
+    background-color: white;
+    border: 1px solid white;
+    margin-left: 100px;
+}
+.Xizmatlar{
+    background-color: white;
+    border: 1px solid white ;
+    margin-left:30px;
+}
+.Maxsulot{
+    background-color: white;
+    border: 1px solid white;
+    margin-left: 30px;
+}
+
+
+.Kontaktlar{
+ 
+        background-color: rgb(44, 44, 148);
+        color: white;
+        padding-left: 1%;
+        padding-right: 1%;
+        margin-left: 800px;
+        border: 8px solid rgb(44, 44, 148);
+        border-radius: 6%;
+    
+    
+}
+.H1{
+    position: absolute;
+    top: 44%;
+    left: 16%;
+    transform: translate(-50%, -50%);
+    padding: 10px 25px;
+    color: rgb(255, 255, 255); 
+    border: none;
+   
+}
+.Lorem{
+     
+    position: absolute;
+    top: 58%;
+    left: 38%;
+    transform: translate(-50%, -50%);
+    padding: 10px 25px;
+    color: rgb(255, 255, 255); 
+    border: none;
+    border-radius: 50px; 
+}
+input{
+    position: absolute;
+    top: 74%;
+    left: 17.5%;
+    transform: translate(-50%, -50%);
+    padding: 10px 25px;
+    color: rgb(255, 255, 255); 
+    border: none;
+    padding-right: 80px;
+    border-radius: 6px;  
+}
+.Jonatish{
+    position:absolute;
+    top: 71.8%;
+    right: 1016px;
+    background-color: rgb(44, 44, 148);
+    color: white;
+    padding-left: 1%;
+    padding-right: 1%;
+    margin-left: 800px;
+    border: 8px solid rgb(44, 44, 148);
+    border-radius: 6px;
+    
+}

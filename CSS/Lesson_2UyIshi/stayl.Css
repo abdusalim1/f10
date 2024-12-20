@@ -1,0 +1,54 @@
+div{
+    width: 1520px;
+    border: 2px solid rgb(177, 80, 80);
+    background-color: rgb(177, 80, 80);
+    color: rgb(255, 255, 255);
+    
+}
+del{
+    color:  rgb(177, 80, 80);
+}
+
+img {
+    width: 1520px;
+    height: 700px;
+    background-image: url(japan.png);
+    background-size: cover;
+    background-position: center;
+    background-image: none;
+    
+}
+
+h1{
+    position: absolute;
+    top: 43%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white; 
+    font-size: 24px; 
+    
+}
+.Yuborish{
+     
+    position: absolute;
+    top: 63%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px 25px;
+    background-color: rgb(186, 84, 84); 
+    color: rgb(255, 255, 255); 
+    border: none;
+    border-radius: 50px; 
+}
+.Telefon{
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 15px 100px;
+    background-color: rgb(255, 255, 255); 
+    color: rgb(99, 98, 98); 
+    border: none;
+    border-radius: 50px;
+}
+

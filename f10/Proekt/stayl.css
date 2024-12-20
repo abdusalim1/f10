@@ -1,0 +1,538 @@
+.shopp{
+    font-family: "Roboto", serif;
+    margin-top: 15px;
+    margin-left: 30px;
+    display: inline-block;
+}
+.explore{
+    font-family: "Roboto", serif;
+    margin-top: 15px;
+    margin-left: 20px;
+    display: inline-block;
+}
+.Grovemade{
+   margin-left: 480px;
+    display: inline-block;
+}
+.Mycardd{
+    font-family: "Roboto", serif;
+    display: inline-block;
+margin-left: 550px;
+}
+.fr4{
+   width: 1520px;
+}
+.rasmusti{
+    font-size: 43px;
+    font-family: "Roboto", serif;
+    position: absolute;
+    top: 33%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white; 
+}
+.Available{
+    font-size: 15px;
+    font-family: "Roboto", serif;
+    position: absolute;
+    top: 42.5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;  
+}
+.Learn{
+    font-size: 13px;
+    font-family: "Roboto", serif;
+    position: absolute;
+    top: 48.5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;  
+}
+.Design{
+    font-family: "Roboto", serif;
+    font-size: 43px;
+    margin-top: 80px;
+}
+.Build{
+    color: #A0A0A0;
+font-size: 14px;
+font-family: "Roboto", serif;
+}
+.Get{
+    font-size: 13px;
+    font-family: "Roboto", serif;
+    margin-top: 30px;
+}
+.Desk{
+    width: 657.5px;
+    height: 440.53px;
+    display: inline-block;
+    margin-left: 80px;
+}
+.Laptop{
+    margin-left: 20px;
+    width: 657.5px;
+    height: 440.53px;
+    display: inline-block;
+}
+.Pads{
+    font-size: 27px;
+    font-family: "Roboto", serif;
+    margin-left: 350px;
+    display: inline-block;
+}
+.PadsTegi{
+    font-size: 13px;
+    font-family: "Roboto", serif;
+    margin-left: 370px;
+    display: inline-block;
+}
+.Stands{
+    font-size: 27px;
+    font-family: "Roboto", serif;
+    margin-left: 525px;
+    display: inline-block;
+}
+.StandsTegi{
+    font-size: 13px;
+    font-family: "Roboto", serif;
+    margin-left: 599px;
+    display: inline-block;
+}
+.Featured{
+    font-size: 33px;
+    font-family: "Roboto", serif;
+
+}
+.See{
+    font-size: 15px;
+    color: #A0A0A0;
+    font-family: "Roboto", serif;
+    margin-top: -12px;
+}
+.Tocka{
+    margin-top: 30px;
+}
+.Rasm1{
+    margin-left: 94px;
+}
+.RAsm2{
+    margin-left: 20px;
+}
+.RAsm3{
+    margin-left: 20px;
+}
+.Rasm4{
+    margin-left: 20px;
+}
+.MagSafe{
+    display: inline-block;
+    font-size: 13px;
+    color:#A0A0A0;
+    font-family: "Roboto", serif;
+    margin-left: 94px;
+    margin-top: 20px;
+}
+.Laptopp{
+    display: inline-block;
+    font-size: 13px;
+    color:#A0A0A0;
+    font-family: "Roboto", serif;
+    margin-left: 200px;
+}
+.iPad{
+    display: inline-block;
+    font-size: 13px;
+    color:#A0A0A0;
+    font-family: "Roboto", serif;
+    margin-left:215px;
+}
+.Monitor{
+    display: inline-block;
+    font-size: 13px;
+    color:#A0A0A0;
+    font-family: "Roboto", serif;
+    margin-left: 225px;
+}
+.D120{
+    display: inline-block;
+    font-size: 12px;
+    color:#A0A0A0;
+    font-family: "Roboto", serif;
+    margin-left: 93px;
+}
+.D150{
+    display: inline-block;
+    font-size: 12px;
+    color:#A0A0A0;
+    font-family: "Roboto", serif;
+    margin-left: 305px;
+}
+.D80{
+    display: inline-block;
+    font-size: 12px;
+    color:#A0A0A0;
+    font-family: "Roboto", serif;
+    margin-left: 305px;
+}
+.D100{
+    display: inline-block;
+    font-size: 12px;
+    color:#A0A0A0;
+    font-family: "Roboto", serif;
+    margin-left: 310px;
+}
+.Apple{
+    width: 1500px;
+    height: 504;
+}
+.HomeOffice{
+    font-size: 66px;
+    font-family: "Roboto", serif;
+    position: absolute;
+    top: 355%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 255, 255);
+}
+.Working{
+    font-size:14px;
+    font-family: "Roboto", serif;
+    position: absolute;
+    top: 371%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 255, 255);
+}
+.WorkingTegi{
+    font-size:13px;
+    font-family: "Roboto", serif;
+    position: absolute;
+    top: 378%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 255, 255);
+}
+.Hard{
+    font-size: 34px;
+    font-family: "Roboto", serif;
+}
+.HardTegi{
+    font-size: 16px;
+    color: #A0A0A0;
+    font-family: "Roboto", serif;
+    width: 700px;
+    
+}
+.Uy{
+    width: 1052px;
+    height: 592px;
+}
+.Work{
+    font-family: "Roboto", serif;
+    font-size: 34px;
+}
+.WorkTegi{
+    font-size: 16px;
+    font-family: "Roboto", serif;
+    color: #A0A0A0;
+    width: 720px;
+}
+.F1{
+    margin-left: 80px;
+    display: inline-block;
+    width: 203px;
+    height: 271px;
+}
+.F2{
+    margin-left: 20px;
+    display: inline-block;
+    width: 203px;
+    height: 271px;
+}
+.F3{
+    margin-left: 20px;
+    display: inline-block;
+    width: 203px;
+    height: 271px;
+}
+.F4{
+    margin-left: 20px;
+    display: inline-block;
+    width: 203px;
+    height: 271px;
+}
+.F5{
+    margin-left: 20px;
+    display: inline-block;
+    width: 203px;
+    height: 271px;
+}
+.F6{
+    margin-left: 20px;
+    display: inline-block;
+    width: 203px;
+    height: 271px;
+}
+.F7{
+    margin-top: 20px;
+    margin-left: 80px;
+    display: inline-block;
+    width: 203px;
+    height: 271px;
+}
+.F8{
+    margin-top: 20px;
+    margin-left: 20px;
+    display: inline-block;
+    width: 203px;
+    height: 271px;
+}
+.F9{
+    margin-top: 20px;
+    margin-left: 20px;
+    display: inline-block;
+    width: 203px;
+    height: 271px;
+}
+.F10{
+    margin-top: 20px;
+    margin-left: 20px;
+    display: inline-block;
+    width: 203px;
+    height: 271px;
+}
+.F11{
+    margin-top: 20px;
+    margin-left: 20px;
+    display: inline-block;
+    width: 203px;
+    height: 271px;
+}
+.F12{
+    margin-top: 20px;
+    margin-left: 20px;
+    display: inline-block;
+    width: 203px;
+    height: 271px;
+}
+.F13{
+    margin-top: 20px;
+    margin-left: 80px;
+    display: inline-block;
+    width: 203px;
+    height: 271px;
+}
+.F14{
+    margin-top: 20px;
+    margin-left: 20px;
+    display: inline-block;
+    width: 203px;
+    height: 271px;
+}
+.F15{
+    margin-top: 20px;
+    margin-left: 20px;
+    display: inline-block;
+    width: 203px;
+    height: 271px;
+}
+    
+
+.F16{
+    margin-top: 20px;
+    margin-left: 20px;
+    display: inline-block;
+    width: 203px;
+    height: 271px;
+}
+.F17{ 
+    margin-top: 20px;
+    margin-left: 20px;
+    display: inline-block;
+    width: 203px;
+    height: 271px;
+}
+.F18{
+    margin-top: 20px;
+    margin-left: 20px;
+    display: inline-block;
+    width: 203px;
+    height: 271px;
+}
+.F19{
+    margin-top: 20px;
+    margin-left: 80px;
+    display: inline-block;
+    width: 203px;
+    height: 271px;
+}
+.F20{
+    margin-top: 20px;
+    margin-left: 20px;
+    display: inline-block;
+    width: 203px;
+    height: 271px;
+}
+.F21{
+    margin-top: 20px;
+    margin-left: 20px;
+    display: inline-block;
+    width: 203px;
+    height: 271px;
+}
+
+.F22{
+    margin-top: 20px;
+    margin-left: 20px;
+    display: inline-block;
+    width: 203px;
+    height: 271px;
+}
+
+.F23{
+    margin-top: 20px;
+    margin-left: 20px;
+    display: inline-block;
+    width: 203px;
+    height: 271px;
+}
+
+.F24{
+    margin-top: 20px;
+    margin-left: 20px;
+    display: inline-block;
+    width: 203px;
+    height: 271px;
+}
+.Join{
+    font-family: "Roboto", serif;
+    font-size: 34px;
+}
+.story{
+    font-family: "Roboto", serif;
+    font-size: 13px;
+}
+.seri{
+    margin-left: 80px;
+}
+.logo{
+    font-size: 66px;
+    font-family: "Roboto", serif;
+    position: absolute;
+    top: 785%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+}
+.Inspires{
+    font-size: 43px;
+    font-family: "Roboto", serif;
+    position: absolute;
+    top: 788%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 255, 255);
+}
+.Done{
+    font-size: 14px;
+    font-family: "Roboto", serif;
+    position: absolute;
+    top: 800%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 255, 255);
+}
+.ohiri{
+    background-color: rgb(248, 249, 249);
+}
+.goup{
+    margin-left: 1340px;
+}
+.shop{
+    font-family: "Roboto", serif;
+    font-size: 22px;
+    margin-left: 80px;
+    display: inline-block;
+}
+.Signup{
+    font-family: "Roboto", serif;
+    display: inline-block;
+    font-size: 22px;
+    margin-left: 120px;
+}
+.about{
+    font-family: "Roboto", serif;
+    font-size: 22px;
+    margin-left: 80px;
+    display: inline-block;
+    margin-top: 10px;
+}
+.AboutYoni{
+    font-family: "Roboto", serif;
+    display: inline-block;
+    font-size: 14px;
+    margin-left: 120px;
+    color: #A0A0A0;
+    width: 300px;
+    
+}
+.Journal{
+    font-family: "Roboto", serif;
+    font-size: 22px;
+    margin-left: 80px;
+    display: inline-block;
+    margin-top: 10px;
+}
+.Support{
+    font-family: "Roboto", serif;
+    font-size: 22px;
+    margin-left: 80px;
+    display: inline-block;
+    margin-top: 10px;
+}
+.covid{
+    font-family: "Roboto", serif;
+    font-size: 22px;
+    margin-left: 80px;
+    margin-top: 10px;
+ 
+}
+.Order{
+    font-family: "Roboto", serif;
+    font-size: 22px;
+    margin-left: 80px;
+    display: inline-block;
+    margin-top: 10px;
+}
+.Cs{
+    font-family: "Roboto", serif;
+    font-size: 22px;
+    margin-left: 80px;
+    display: inline-block;
+    margin-top: 10px;
+}
+.Su{
+    font-family: "Roboto", serif;
+    font-size: 14px;
+    margin-left: 97px;
+    display: inline-block;
+    margin-top: -40px;
+    width: 300px;
+    color: #A0A0A0;
+}
+.l1{
+    color: black;
+    margin-left: 255px;
+    display: inline-block;
+   margin-top: -10;
+}
+.Yil2024{
+    color: #A0A0A0;
+    margin-left: 820px;
+    display: inline-block;
+}
+del{
+    color: white;
+}

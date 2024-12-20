@@ -1,0 +1,25 @@
+div{
+    margin-left: 150px;
+    display: inline-block;
+}
+p{
+    display: inline-block;
+    margin-left: 50px;
+}
+button{
+    color: blue;
+    margin-left: 450px;
+}
+.name-d{
+    margin-left: 1000px;
+    margin-top: 150px;
+}
+h1{
+    color: blue;
+}
+.name-ab{
+    margin-left: 20px;
+}
+.name-er{
+    margin-bottom: 100px;
+}

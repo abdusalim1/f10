@@ -1,0 +1,37 @@
+.input1{
+    margin-bottom: px;
+    border: 10px solid white;
+    border-radius: 5px;
+    padding-left: 25px;
+    padding-bottom: 10px;
+}
+div{
+background-color: green;
+width: max-content;
+border: 10px solid green;
+border-radius: 5%;
+}
+h1{
+    color: white;
+    margin-left: 60px;
+}
+p{
+color: white;
+margin-bottom: px ;
+}
+input{
+    margin-bottom: px;
+    padding-left: 25px;
+    padding-bottom: 10px;
+    border: 10px solid white;
+    border-radius: 5px;
+}
+button{
+    color: green;
+    padding: 5px;
+    background-color: white;
+    padding-right: 120px;
+    border: 10px solid white;
+    border-radius: 5px;
+
+}

@@ -1,0 +1,54 @@
+.img1{     
+        display: inline-block;   
+        margin-top: 15px;
+        margin-left: 120px;    
+}
+.Asosiy{
+    display: inline-block;
+    margin-left: 30px;
+    
+}
+.Xizmatlar{
+    display: inline-block;
+    margin-left: 30px;
+}
+.Narxlar{
+    display: inline-block;
+    margin-left: 30px;
+}
+.Kontakt{
+    display: inline-block;
+    margin-left: 30px;
+}
+.Boshlash{
+    display: inline-block;
+    border: 1px solid blue;
+    background-color: white;
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 5px;
+    color: blue;
+    margin-left: 550px;
+}
+.img2{
+    display: inline-block;
+    margin-top: 40px;
+    padding: 1px;
+    margin-left: 850px;
+    
+}
+.h1{
+    color: rgb(0, 106, 255);
+    display: inline-block;
+    margin-left:120px;
+    margin-top: 300px;
+    
+}
+
+div{
+    display: inline-block;
+   border: 1px solid red;
+   
+}
+

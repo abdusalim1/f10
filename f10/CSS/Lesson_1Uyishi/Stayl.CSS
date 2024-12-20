@@ -1,0 +1,22 @@
+h1{
+    color: white;
+}
+p{
+    color: rgb(255, 255, 255);
+}
+del{
+    color: rgba(145, 145, 145, 0.607);
+}
+button{
+    width: 377px;
+    height: 50px;
+    color: black;
+    background-color: rgb(255, 255, 255);
+}
+div{
+    color: aliceblue;
+    background-color: rgb(41, 37, 108);
+   width: 20%;
+   height: max-content;
+}
+
